@@ -1,0 +1,33 @@
+# Day 1: House Price Prediction using Linear Regression
+
+## 📌 Objective
+Predict house prices based on features like area, number of bedrooms, and age using Linear Regression.
+
+## 🧪 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib / Seaborn (for visualization)
+
+## 📊 Dataset
+- Dataset: [Link to dataset or description]
+- Features: Area (sq. ft.), Bedrooms, Age (years)
+- Target: Price (₹)
+
+## 📈 Model Performance
+- R² Score: 0.92
+- Mean Absolute Error: ₹[value]
+
+## 📥 How to Run
+1. Clone the repository: `git clone https://github.com/Kvaishu01/100DaysML-Day1-HousePricePrediction.git`
+2. Navigate to the project folder: `cd 100DaysML-Day1-HousePricePrediction`
+3. Install dependencies: `pip install -r requirements.txt`
+4. Run the Jupyter notebook: `jupyter notebook notebooks/Day1_HousePricePrediction.ipynb`
+
+## 🔗 Next Steps
+- Explore Polynomial Regression for capturing non-linear relationships.
+- Implement feature engineering techniques to improve model accuracy.
+
+## 📄 License
+This project is licensed under the MIT License.
